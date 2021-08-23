@@ -1,0 +1,14 @@
+@import url(../block/page.css);
+@import url(../block/logo/logo.css);
+@import url(../block/header/header.css);
+@import url(../block/description/description.css);
+@import url(../block/digits/digits.css);
+@import url(../block/section-title/section-title.css);
+@import url(../block/section-subtitle/section-subtitle.css);
+@import url(../block/table/table.css);
+@import url(../block/feynman/feynman.css);
+@import url(../block/kaufman/kaufman.css);
+@import url(../block/table/__theme_dark/table__theme_dark.css);
+@import url(../block/table/__cell/_theme_dark/table__cell_theme_dark.css);
+@import url(../block/footer/footer.css);
+@import url(../block/logo/_place_footer/logo_place_footer.css);
